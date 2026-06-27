@@ -190,12 +190,12 @@ Samsung-Supply-Chain-Analytics-PowerBI
 │     fact_shipment.xlsx
 │
 ├── Images/
-│     home.png
-│     overview.png
-│     supplier.png
-│     inventory.png
-│     shipment.png
-│     customer.png
+│     home dashboard.png
+│     overview dashboard.png
+│     supplier dashboard.png
+│     inventory dashboard.png
+│     shipment dashboard.png
+│     customer dashboard.png
 │
 └── README.md
 ```
